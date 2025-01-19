@@ -14,6 +14,7 @@ public class Player {
     public String direction;
     public int spriteCounter = 0;
     public int spriteNum = 1;
+    int mango;
 
     public Rectangle solidArea;
     public boolean collisionOn = false;
